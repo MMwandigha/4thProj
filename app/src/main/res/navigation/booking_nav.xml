@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/booking_nav"
+    app:startDestination="@id/bookingWelcomeFragment">
+
+    <fragment
+        android:id="@+id/bookingWelcomeFragment"
+        android:name="com.example.bloodbanktest.Booking.BookingWelcomeFragment"
+        android:label="fragment_booking_welcome"
+        tools:layout="@layout/fragment_booking_welcome" >
+        <action
+            android:id="@+id/action_bookingWelcomeFragment_to_requirementsFragment"
+            app:destination="@id/requirementsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/requirementsFragment"
+        android:name="com.example.bloodbanktest.Booking.RequirementsFragment"
+        android:label="fragment_requirements"
+        tools:layout="@layout/fragment_requirements" >
+        <action
+            android:id="@+id/action_requirementsFragment_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+        <action
+            android:id="@+id/action_requirementsFragment_to_bookingWelcomeFragment"
+            app:destination="@id/bookingWelcomeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewAppointmentActivity"
+        android:name="com.example.bloodbanktest.Booking.ViewAppointmentActivity"
+        android:label="fragment_view_appointment_activity"
+        tools:layout="@layout/fragment_view_appointment_activity" >
+        <action
+            android:id="@+id/action_viewAppointmentActivity_to_bookingFragment"
+            app:destination="@id/bookingFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bookingFragment"
+        android:name="com.example.bloodbanktest.Appointment.BookingFragment"
+        android:label="fragment_booking"
+        tools:layout="@layout/fragment_booking" >
+        <action
+            android:id="@+id/action_bookingFragment_to_viewAppointmentActivity"
+            app:destination="@id/viewAppointmentActivity" />
+        <action
+            android:id="@+id/action_bookingFragment_to_requirementsFragment"
+            app:destination="@id/requirementsFragment" />
+    </fragment>
+</navigation>

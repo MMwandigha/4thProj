@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/graph"
+        android:title="Graph View"
+        app:showAsAction="never"
+        android:actionMenuTextColor="#000" />
+
+
+
+    <item android:id="@+id/view"
+        android:title="View Update"
+        app:showAsAction="never"
+        android:actionMenuTextColor="#000"/>
+
+
+</menu>

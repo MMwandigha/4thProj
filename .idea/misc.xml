@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/drawable/buttons_background.xml" value="0.114" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/drawable/ic_person.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_donor_registration.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_recipient_registration.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_select_registration.xml" value="0.2546875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BloodBankTest2/app/src/main/res/layout/activity_splash_screen.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable-v24/gradient_background.xml" value="0.34" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable-v24/new_badge.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable-v24/rounded_buttons_with_outline.xml" value="0.3675" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/buttons_background.xml" value="0.3675" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/corner_edges.xml" value="0.3665" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/header_background.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/navigation_selector.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/notifications.xml" value="0.199" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/drawable/textview_border.xml" value="0.1385" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_about_section.xml" value="0.27710843373493976" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_blood_bank.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_blood_camp.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_login.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_main.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_profile.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_update_profile.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_admin_view_appointments.xml" value="0.5" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_appointment.xml" value="0.253125" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_appointment_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_appointment_reports.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_blood_bank.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_blood_camps.xml" value="0.355463347164592" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_blood_stock_reports.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_category_selected.xml" value="0.3605128205128205" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_donor_list.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_donor_registration.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_donor_reports.xml" value="0.2556179775280899" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_faq.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_graph_blood_bank.xml" value="0.3605128205128205" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_help_activtiy.xml" value="0.29419139155871293" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_information.xml" value="0.27710843373493976" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_maps.xml" value="0.30092592592592593" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_notification.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_notifications_report.xml" value="0.2064814814814815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_profile.xml" value="0.2796875" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_recipient_list.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_recipient_registration.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_recipient_reports.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_select_registration.xml" value="0.67" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_sent_email.xml" value="0.37083333333333335" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_user_reports.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_view_appointments.xml" value="0.1675925925925926" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_view_other_profile.xml" value="0.35833333333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_who_can_donate_to_whom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/activity_who_can_receive_from_whom.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/admin_header.xml" value="0.29814814814814816" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/appointment_displayed_layout.xml" value="0.5" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/corner_edges.xml" value="0.365625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/fragment_booking.xml" value="0.3625" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/fragment_booking_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/fragment_requirements.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/fragment_view_appointment_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/gradient_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/header.xml" value="0.67" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/notification_item.xml" value="0.3651041666666667" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/output_layout.xml" value="0.67" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/layout/user_displayed_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/admin_main_menu.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/main_menu.xml" value="0.5" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/menu.xml" value="0.3594871794871795" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/menu_admin.xml" value="0.30055579307396324" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/menu_camp.xml" value="0.33" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/menu/search.xml" value="0.2997007268063275" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2815" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/GiveBlood/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2815" />
+        <entry key="..\:/Users/ADMIN/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/simple_spinner_dropdown_item.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
